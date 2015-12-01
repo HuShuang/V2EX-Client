@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"v3.第三次功能提交");
 }
 
 - (void)didReceiveMemoryWarning {
